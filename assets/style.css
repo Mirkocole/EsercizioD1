@@ -1,0 +1,90 @@
+html{
+    margin: 0;
+}
+
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.logo{
+    
+    width: 180px;
+    margin: auto;
+    padding: 5px 0px;
+}
+
+.logo img{
+    width: 180px;
+}
+
+
+.subtitle-logo{
+    padding: 2px;
+    display: flex;
+    justify-content: center;
+    background-color: beige;
+    margin-bottom: 10px;
+}
+
+.subtitle-logo p{
+    color: #1A7777;
+    font-size: 10px;
+    
+}
+
+.center-content{
+    margin: auto;
+    width: 650px;
+    text-align: center;
+    padding: 20px;
+}
+
+
+.image-content{
+    display: flex;
+    justify-content: center;
+    height: 500px;
+    background-image: url('__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2020__12__Cranberry-Brie-Onion-Focaccia-LEAD-4-616c900337a44d82b82fe04845ba8c2b.webp');
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: cover;
+    border-radius: 10px;
+    box-shadow: 0px 10px 8px #888888;
+}
+
+h4{
+    color: grey;
+}
+
+.block2{
+    padding-left: 10px;
+    border-left: 2px solid #fed877;
+    text-align: left;
+    margin-bottom: 50px;
+}
+
+.features{
+    color: #b5460e;
+}
+
+a{
+    color: #1A7777;
+}
+
+
+.block2 h2,a{
+    margin: 0;
+    padding: 1px;
+}
+
+.list{
+    text-align: left;
+    margin-bottom: 50px;
+}
+
+.list h4{
+    color: black;
+}
+
+
